@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Archana Trust Junior College</title>
+<H1 align="center">Archana Trust Junior College Admission forms</H1>
+</head>
+<body>
+</body>
+</html>
